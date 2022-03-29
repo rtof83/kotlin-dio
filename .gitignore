@@ -1,0 +1,15 @@
+/files
+
+/app-repositories/.gradle
+/app-repositories/.idea
+/app-repositories/.DS_Store
+/app-repositories/build
+/app-repositories/captures
+
+/business-card/.gradle
+/business-card/.idea
+/business-card/.DS_Store
+/business-card/build
+/business-card/captures
+/business-card/backup
+
